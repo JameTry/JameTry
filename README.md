@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://wakatime.com/share/@1e0c9e8b-8948-4f69-84e7-cd3b2546bf05/e19a1c3e-398b-4209-ab8b-1e9c9aae3a3e.png)
